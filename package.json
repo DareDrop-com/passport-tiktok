@@ -30,7 +30,7 @@
     "lodash": "^4.13.1",
     "passport-oauth": "1.0.x",
     "pkginfo": "^0.4",
-    "node-fetch": "^3.3.0"
+    "node-fetch": "2.6.7"
   },
   "engines": {
     "node": ">=0.10.0"
